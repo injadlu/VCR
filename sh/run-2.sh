@@ -1,0 +1,10 @@
+python main.py --config configs/caltech101.yaml --shot 2
+python main.py --config configs/dtd.yaml --shot 2
+python main.py --config configs/eurosat.yaml --shot 2
+python main.py --config configs/fgvc.yaml --shot 2
+python main.py --config configs/food101.yaml --shot 2
+python main.py --config configs/oxford_flowers.yaml --shot 2
+python main.py --config configs/oxford_pets.yaml --shot 2
+python main.py --config configs/stanford_cars.yaml --shot 2
+python main.py --config configs/sun397.yaml --shot 2
+python main.py --config configs/ucf101.yaml --shot 2

@@ -1,5 +1,8 @@
-# Visual Content Refinement for CLIP Adaptation
-this is the codebase of our Visual Content Refinement<br>
-the test-selection.py select the most confident image views <br>
-the imagenet.py generate image views with the corresponding scales <br>
-we will release all the code after the final decisions
+# VCR: Boosting Adaptation of CLIP via Visual Content Refinement
+code for VCR
+## Running
+the running can be categories into following steps:
+1. run  feat-extraction.py 
+2. run  feat-selection.py
+3. run  feat-merge.py
+4. run  main_imagenet.py for ImageNet, and main.py for other 10 datasets
