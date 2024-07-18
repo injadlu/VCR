@@ -1,4 +1,4 @@
-# VCR: Boosting Adaptation of CLIP via Visual Content Refinement
+# VCR: Rethinking Visual Content Refinement in Low-Shot CLIP Adaptation
 code for VCR
 ## Running
 the running can be categories into following steps:
