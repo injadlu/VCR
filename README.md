@@ -20,6 +20,10 @@ the running can be categories into following steps:
 3. run  feat-merge.py
 4. run  main_imagenet.py for ImageNet, and main.py for other 10 datasets
 
+## Results
+1. The training-free few-shot results can be viewed in this [link](https://docs.google.com/spreadsheets/d/1E8WV6AJDCj5oqA1XgYJkfkzSvvo_8Bh2/edit?usp=sharing&ouid=112796012047958047181&rtpof=true&sd=true)
+2. The training-need few-shot results can be viewed in this [link](https://docs.google.com/spreadsheets/d/13EjlGH4eHZxmMiL4K3I5YBpbIoSW3ZC8/edit?usp=sharing&ouid=112796012047958047181&rtpof=true&sd=true)
+
 ## contact:
 **Any problems please contact me at jackie64321@gmail.com**
 
