@@ -1,5 +1,10 @@
 # VCR: Rethinking Visual Content Refinement in Low-Shot CLIP Adaptation
-code for VCR
+Implementation of our paper: [Rethinking Visual Content Refinement in Low-Shot CLIP Adaptation](https://arxiv.org/pdf/2407.14117)
+
+## Introduction
+In this paper, we systematically analyze current CLIP adaptation methods and discover a perceived bias issue in these adaptations. 
+
+
 ## Running
 the running can be categories into following steps:
 1. run  feat-extraction.py 
