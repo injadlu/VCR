@@ -14,7 +14,7 @@ An overview of our **V**isual **C**ontent **R**efinement(**VCR**).
 </div>
 
 ## Dataset
-Our dataset is constructed by following: [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter), and [CoOp](https://github.com/KaiyangZhou/CoOp)
+Our dataset is constructed by following: [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [CoOp](https://github.com/KaiyangZhou/CoOp)
 
 ## Running
 the running can be categories into following steps:
