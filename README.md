@@ -13,6 +13,9 @@ An overview of our **V**isual **C**ontent **R**efinement(**VCR**).
   <img src="https://github.com/injadlu/VCR/blob/main/Pipeline.svg">
 </div>
 
+## Dataset
+Our dataset is constructed by following: [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter), and [CoOp](https://github.com/KaiyangZhou/CoOp)
+
 ## Running
 the running can be categories into following steps:
 1. run  feat-extraction.py 
